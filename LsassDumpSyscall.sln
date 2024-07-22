@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LsassDumpSyscall", "LsassDumpSyscall\LsassDumpSyscall.vcxproj", "{46D6A12D-CE66-4983-8293-D27689D85317}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46D6A12D-CE66-4983-8293-D27689D85317}.Debug|x64.ActiveCfg = Debug|x64
+		{46D6A12D-CE66-4983-8293-D27689D85317}.Debug|x64.Build.0 = Debug|x64
+		{46D6A12D-CE66-4983-8293-D27689D85317}.Debug|x86.ActiveCfg = Debug|Win32
+		{46D6A12D-CE66-4983-8293-D27689D85317}.Debug|x86.Build.0 = Debug|Win32
+		{46D6A12D-CE66-4983-8293-D27689D85317}.Release|x64.ActiveCfg = Release|x64
+		{46D6A12D-CE66-4983-8293-D27689D85317}.Release|x64.Build.0 = Release|x64
+		{46D6A12D-CE66-4983-8293-D27689D85317}.Release|x86.ActiveCfg = Release|Win32
+		{46D6A12D-CE66-4983-8293-D27689D85317}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC995995-50B0-4363-9439-96654DA26EA9}
+	EndGlobalSection
+EndGlobal
