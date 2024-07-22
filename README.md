@@ -15,4 +15,9 @@ LsassDumpSyscall is a specialized utility designed to securely dump the memory c
 
 Use this table for Syscall Numbers (https://j00ru.vexillium.org/syscalls/nt/64/)
 
+## References
+
+https://github.com/Offensive-Panda/D3MPSEC/tree/main
+
+https://github.com/outflanknl/Dumpert
 
